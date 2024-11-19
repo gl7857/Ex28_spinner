@@ -113,6 +113,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 phoneNum.setText(class4[1][pos]);
             }
         }
+
         lastName.setVisibility(View.VISIBLE);
         firstName.setVisibility(View.VISIBLE);
         birthDay.setVisibility(View.VISIBLE);
