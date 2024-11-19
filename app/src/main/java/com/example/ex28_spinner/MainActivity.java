@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         lVstudents.setVisibility(View.VISIBLE);
     }
 
-
     @Override
     public void onNothingSelected(AdapterView<?> parent) {
     }
