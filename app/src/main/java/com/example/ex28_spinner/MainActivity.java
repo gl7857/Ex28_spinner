@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     String[] classesArr, class1names, class2names, class3names, class4names;
     String[][] class1, class2, class3, class4;
     int numberClass = 0;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
